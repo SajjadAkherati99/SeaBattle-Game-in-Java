@@ -1,0 +1,23 @@
+
+.empty-cell {
+    -fx-background-color: #0d07f3;
+    -fx-background-position: center;
+    -fx-background-size: stretch;
+    -fx-background-repeat: no-repeat;
+    -fx-border-color: #f4fd02;
+    -fx-border-width: 0.5;
+}
+
+/*.empty-cell:hover {*/
+/*    -fx-blend-mode: screen;*/
+/*}*/
+
+.ship {
+    -fx-background-color: #e34804;
+    -fx-background-position: center;
+    -fx-background-size: stretch;
+    -fx-background-repeat: no-repeat;
+    -fx-border-color:#e34804;
+    -fx-border-width: 0.5;
+}
+
